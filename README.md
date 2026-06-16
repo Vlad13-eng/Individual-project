@@ -31,4 +31,4 @@ press "open anyway" button and the program will run in your terminal after this:
 
 <img width="626" height="184" alt="Screenshot 2026-06-15 at 13 17 33" src="https://github.com/user-attachments/assets/6034e075-b823-47fb-80cd-33e40cba8315" />  
 
-and you will see program runnning on your terminal.
+and you will see program running on your terminal.
