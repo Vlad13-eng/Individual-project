@@ -19,7 +19,11 @@ scroll down and press "open anyways" button:
 
 <img width="495" height="183" alt="Screenshot 2026-06-15 at 13 17 09" src="https://github.com/user-attachments/assets/93cdc343-1cac-4763-be4d-a20bda9d2a3f" />
 
-and try again to run **airportik**, different window will be opened:
+and try again to run **airportik**:
+
+<img width="78" height="98" alt="Screenshot 2026-06-15 at 12 51 30" src="https://github.com/user-attachments/assets/3c9659fe-666e-4fe7-ab40-5790a206c430" />
+
+different window will be opened:
 
 <img width="246" height="337" alt="Screenshot 2026-06-15 at 13 17 17" src="https://github.com/user-attachments/assets/4ae9a555-657b-47f7-8e32-cd82a295be03" />
 
