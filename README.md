@@ -27,9 +27,7 @@ different window will be opened:
 
 <img width="246" height="337" alt="Screenshot 2026-06-15 at 13 17 17" src="https://github.com/user-attachments/assets/4ae9a555-657b-47f7-8e32-cd82a295be03" />
 
-press "open anyway" button:
-
-the program will run in your terminal after this:
+press "open anyway" button and the program will run in your terminal after this:
 
 <img width="626" height="184" alt="Screenshot 2026-06-15 at 13 17 33" src="https://github.com/user-attachments/assets/6034e075-b823-47fb-80cd-33e40cba8315" />  
 
